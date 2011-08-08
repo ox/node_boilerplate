@@ -1,0 +1,75 @@
+body {
+	background: whitesmoke;
+	font-family: Helvetica, sans-serif;
+	color: #333;
+}
+
+div#header {
+	/*background: #0B821F;*/ /*#468C47;*/
+	margin-top:20px;
+	font-weight: bold;
+  font-family: 'Paytone One',sans-serif;
+	padding: 25px 0;
+}
+
+div#header h1 {
+	padding: 0 40px;
+	font-size: 50px;
+}
+
+div#content {
+	background: white;/*#98BF99;*/
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+}
+
+label.bl {
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Dawning of a New Day';
+}
+
+#form {
+	padding: 40px;
+}
+
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
+
+.tall {
+	min-height: 150px;
+}
+
+div#header a {
+	text-decoration: none;
+	font-variant: small-caps;
+	border-radius: 3px ;
+	background: #CCC ;
+	padding: 7px;
+	margin: 10px;
+	color: black;
+	font-weight: bold;
+	top: 100px;
+}
+
+#padder {
+	padding:40px;
+	color: #D5D5D5;
+	font-size: 10px;
+}
+
+#padder p {
+	float: right;
+}
+
+#padder a {
+	text-decoration: none;
+	color: #C5C5C5;
+	font-weight: bold;
+}
